@@ -1,0 +1,43 @@
+.body{
+    width: 400;
+    margin: 0;
+padding: 0;
+}
+.div1{
+    background-color: green;
+    color: white;
+}
+.div2{
+    background-color: green;
+    color: white;
+}
+.div3{
+    background-color: green;
+    color: white;
+}
+#div4{
+    background-color: green;
+    color: white;
+
+}
+div{background-color: green;
+    color: white;
+}
+.div5{background-color: whitesmoke;
+color: black;}
+
+.div6{background-color: rgb(248, 248, 248);
+    color: black;
+}
+#div7{background-color:rgb(241, 239, 231) ;
+    color: black;
+}
+.div8{background-color: antiquewhite;
+color: black;}
+
+.div9{background-color: antiquewhite;
+    color: black;}
+.div00{background-color: aliceblue;color: black;}
+
+.div01{background-color: aliceblue;
+color: black;}
